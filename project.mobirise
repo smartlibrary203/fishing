@@ -71,7 +71,8 @@
         "meta_descr": "Онлайн выставка книг к Всероссийскому дню рыбака",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/4549-707x467.jpg"
       },
       "components": [
         {

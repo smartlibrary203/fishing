@@ -1128,21 +1128,25 @@ section.lazy-placeholder:after {
 }
 .cid-s0Ef43f95l .mbr-text,
 .cid-s0Ef43f95l .mbr-section-btn P {
+  text-align: center;
+}
+.cid-s2e7MRh1rr {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #0f7699;
+}
+.cid-s2e7MRh1rr .mbr-section-subtitle {
+  color: #ffffff;
   text-align: left;
 }
-.cid-s0Ef6fxwv7 {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/depositphotos-48914027-stock-illustration-859x785.png");
-}
-.cid-s0Ef6fxwv7 .mbr-text,
-.cid-s0Ef6fxwv7 .mbr-section-btn {
-  color: #232323;
+.cid-s2e7MRh1rr H2 {
+  text-align: left;
+  color: #ffffff;
 }
 .cid-s1763U7E6P {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #9b825e;
+  background-color: #55b4d4;
 }
 .cid-s1763U7E6P h4 {
   font-weight: 500;
@@ -1181,10 +1185,23 @@ section.lazy-placeholder:after {
 .cid-s1763U7E6P .mbr-section-btn {
   color: #232323;
 }
+.cid-s2e7kSajvs {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #0f7699;
+}
+.cid-s2e7kSajvs .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-s2e7kSajvs H2 {
+  color: #ffffff;
+  text-align: left;
+}
 .cid-s17mWH1Omq {
   padding-top: 45px;
   padding-bottom: 15px;
-  background: linear-gradient(45deg, #be986c, #eac66d);
+  background-image: url("../../../assets/images/aland-islands-fishing-2000x1125.jpg");
 }
 @media (min-width: 992px) {
   .cid-s17mWH1Omq .mbr-figure {
@@ -1198,11 +1215,11 @@ section.lazy-placeholder:after {
 }
 .cid-s17mWH1Omq .mbr-text,
 .cid-s17mWH1Omq .mbr-section-btn {
-  color: #232323;
+  color: #ffffff;
   text-align: center;
 }
 .cid-s17mWH1Omq .mbr-section-title {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-s1p01evmfs {
   padding-top: 15px;
@@ -1340,6 +1357,34 @@ section.lazy-placeholder:after {
 .cid-s1py0swdTg .card-title {
   color: #ffffff;
 }
+.cid-s2e49YRm6f {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/148-224-800x533.jpg");
+}
+.cid-s2e49YRm6f .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-s2e49YRm6f H2 {
+  color: #ff7f7f;
+  text-align: center;
+}
+.cid-s2e52bwWIE {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s2e52bwWIE .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-s2e52bwWIE .mbr-section-subtitle DIV {
+  text-align: left;
+}
+.cid-s2e52bwWIE H2 {
+  color: #ff7f7f;
+}
 .cid-s1oRz3HBax {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1418,30 +1463,6 @@ section.lazy-placeholder:after {
 }
 .cid-s1oKC9DeAB .card-title {
   text-align: center;
-}
-.cid-s1psSGz4ZF {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #f9f295;
-}
-.cid-s1psSGz4ZF .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s1psSGz4ZF .section-text {
-  padding: 2rem 0;
-  color: #232323;
-}
-.cid-s1psSGz4ZF .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s1psSGz4ZF .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-s17xWe6cAP {
   padding-top: 45px;
@@ -1549,6 +1570,9 @@ section.lazy-placeholder:after {
 .cid-s1p2Sy5Mvk .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-s1pGG6fMN4 {
+  background-image: url("../../../assets/images/orig-orig-1502028931c0a240d75522c5c56bbc742b46484bac-1502029233-1240x696.jpg");
 }
 .cid-s1pCZGNfgm {
   padding-top: 45px;
